@@ -43,3 +43,16 @@ Note: If you're using Linux Bash for Windows, [see this guide](https://www.howto
 ## License
 
 [CC0 1.0 (Public Domain)](LICENSE.md)
+
+
+## 打包
+
+参考文章：https://qii404.me/2019/07/10/electron.html
+
+
+Mac打包成dmg文件
+在Mac环境下执行
+
+node_modules/.bin/electron-builder -m dmg
+
+
