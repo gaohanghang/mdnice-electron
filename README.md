@@ -56,6 +56,8 @@ Note: If you're using Linux Bash for Windows, [see this guide](https://www.howto
 
 参考文章：https://qii404.me/2019/07/10/electron.html
 
+先 npm install
+
 ```
 # Linux打包成AppImage文件
 # 在Linux环境上执行
