@@ -2,6 +2,11 @@
 
 ![](img/Snipaste_2020-03-03_20-11-26.png)
 
+![](img/4131583238798_.pic_hd.jpg)
+
+![](img/Snipaste_2020-03-03_20-40-44.png)
+
+
 **Clone and run for a quick way to see Electron in action.**
 
 This is a minimal Electron application based on the [Quick Start Guide](https://electronjs.org/docs/tutorial/quick-start) within the Electron documentation.
