@@ -56,11 +56,22 @@ Note: If you're using Linux Bash for Windows, [see this guide](https://www.howto
 
 参考文章：https://qii404.me/2019/07/10/electron.html
 
+```
+# Linux打包成AppImage文件
+# 在Linux环境上执行
+node_modules/.bin/electron-builder -l AppImage
 
-Mac打包成dmg文件
-在Mac环境下执行
+# Windows打包成exe安装文件
+# 在Windows环境下执行
+node_modules/.bin/electron-builder -w nsis
+# 如果在非Windows上打包win程序，也可以借助docker 如下
+# docker run --rm -it -v ${PWD}:/project electronuserland/builder:wine sh -c "node_modules/.bin/electron-builder -w nsis"
 
+# Mac打包成dmg文件
+# 在Mac环境下执行
 node_modules/.bin/electron-builder -m dmg
+
+```
 
 
 ## 参考文章
