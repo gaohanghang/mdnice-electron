@@ -1,4 +1,6 @@
-# electron-quick-start
+# MarkdownNice 客户端
+
+![](img/Snipaste_2020-03-03_20-11-26.png)
 
 **Clone and run for a quick way to see Electron in action.**
 
@@ -56,3 +58,6 @@ Mac打包成dmg文件
 node_modules/.bin/electron-builder -m dmg
 
 
+## 参考文章
+
+https://www.electronjs.org/docs/tutorial/first-app

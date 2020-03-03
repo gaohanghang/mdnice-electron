@@ -9,8 +9,9 @@ function createWindow () {
     height: 600,
     webPreferences: {
       preload: path.join(__dirname, 'preload.js')
-    }
-  })
+    },
+    icon: path.join(__dirname, './img/icon.icns')
+})
 
   // and load the index.html of the app.
   mainWindow.loadURL('https://mdnice.com/')
