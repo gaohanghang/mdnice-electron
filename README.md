@@ -7,6 +7,12 @@
 ![](img/Snipaste_2020-03-03_20-40-44.png)
 
 
+> [点击此处下载](https://github.com/gaohanghang/mdnice-electron/releases)
+
+
+
+
+
 **Clone and run for a quick way to see Electron in action.**
 
 This is a minimal Electron application based on the [Quick Start Guide](https://electronjs.org/docs/tutorial/quick-start) within the Electron documentation.
@@ -27,7 +33,7 @@ To clone and run this repository you'll need [Git](https://git-scm.com) and [Nod
 
 ```bash
 # Clone this repository
-git clone https://github.com/electron/electron-quick-start
+git clone https://github.com/gaohanghang/mdnice-electron
 # Go into the repository
 cd electron-quick-start
 # Install dependencies
