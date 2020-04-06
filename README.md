@@ -4,7 +4,7 @@
 
 ![](https://user-images.githubusercontent.com/20310190/78519600-7feb2b00-77f6-11ea-9cd6-3e263fd5f302.png)
 
-![](img/Snipaste_2020-03-03_20-40-44.png)
+![](https://tva1.sinaimg.cn/large/00831rSTgy1gdjvnu34tej31880u04qp.jpg)
 
 
 > [点击此处下载](https://github.com/gaohanghang/mdnice-electron/releases)
