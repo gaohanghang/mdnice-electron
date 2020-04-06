@@ -1,10 +1,16 @@
 # MarkdownNice 客户端
 
-![](img/Snipaste_2020-03-03_20-11-26.png)
+![](https://tva1.sinaimg.cn/large/00831rSTgy1gdjvl6a1cvj31080rc45f.jpg)
 
-![](img/4131583238798_.pic_hd.jpg)
+![](https://user-images.githubusercontent.com/20310190/78519600-7feb2b00-77f6-11ea-9cd6-3e263fd5f302.png)
 
-![](img/Snipaste_2020-03-03_20-40-44.png)
+![](https://tva1.sinaimg.cn/large/00831rSTgy1gdjvnu34tej31880u04qp.jpg)
+
+
+> [点击此处下载](https://github.com/gaohanghang/mdnice-electron/releases)
+
+
+
 
 
 **Clone and run for a quick way to see Electron in action.**
@@ -27,7 +33,7 @@ To clone and run this repository you'll need [Git](https://git-scm.com) and [Nod
 
 ```bash
 # Clone this repository
-git clone https://github.com/electron/electron-quick-start
+git clone https://github.com/gaohanghang/mdnice-electron
 # Go into the repository
 cd electron-quick-start
 # Install dependencies
