@@ -1,6 +1,6 @@
 # MarkdownNice 客户端
 
-## 使用效果
+## 1. 使用效果
 
 ![](https://tva1.sinaimg.cn/large/00831rSTgy1gdjvl6a1cvj31080rc45f.jpg)
 
@@ -12,7 +12,7 @@
 > [点击此处下载](https://github.com/gaohanghang/mdnice-electron/releases)
 
 
-## 如何进行开发
+## 2. 如何进行开发
 
 To clone and run this repository you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
 
@@ -29,7 +29,7 @@ npm start
 
 Note: If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
 
-## Electron 学习资源
+## 3. Electron 学习资源
 
 - [electronjs.org/docs](https://electronjs.org/docs) - all of Electron's documentation
 - [electronjs.org/community#boilerplates](https://electronjs.org/community#boilerplates) - sample starter apps created by the community
@@ -38,12 +38,8 @@ Note: If you're using Linux Bash for Windows, [see this guide](https://www.howto
 - [electron/electron-api-demos](https://github.com/electron/electron-api-demos) - an Electron app that teaches you how to use Electron
 - [hokein/electron-sample-apps](https://github.com/hokein/electron-sample-apps) - small demo apps for the various Electron APIs
 
-## License
 
-[CC0 1.0 (Public Domain)](LICENSE.md)
-
-
-## 打包
+## 4. 项目打包
 
 参考文章：https://qii404.me/2019/07/10/electron.html
 
@@ -66,6 +62,10 @@ node_modules/.bin/electron-builder -m dmg
 
 ```
 
-## 参考文章
+## 5. 参考文章
 
 https://www.electronjs.org/docs/tutorial/first-app
+
+## 6. License
+
+[CC0 1.0 (Public Domain)](LICENSE.md)
