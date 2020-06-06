@@ -2,9 +2,9 @@
 
 ## 1. 使用效果
 
-![](https://tva1.sinaimg.cn/large/00831rSTgy1gdjvl6a1cvj31080rc45f.jpg)
+![](https://tva1.sinaimg.cn/large/007S8ZIlgy1gfis4tvibej30u00l4go8.jpg)
 
-![](https://user-images.githubusercontent.com/20310190/78519600-7feb2b00-77f6-11ea-9cd6-3e263fd5f302.png)
+![](https://tva1.sinaimg.cn/large/007S8ZIlgy1gfirsytso1j31e20u0hdu.jpg)
 
 ![](https://tva1.sinaimg.cn/large/00831rSTgy1gdjvnu34tej31880u04qp.jpg)
 
@@ -63,6 +63,10 @@ node_modules/.bin/electron-builder -m dmg
 ## 5. 参考文章
 
 https://www.electronjs.org/docs/tutorial/first-app
+
+[electron-builder打包见解](https://juejin.im/post/5bc53aade51d453df0447927)
+
+[使用electron-builder，如何设置设置用户可选择安装目录？](https://newsn.net/say/electron-builder-install-directory/2.html)
 
 ## 6. License
 
