@@ -8,6 +8,8 @@
 
 ![](https://tva1.sinaimg.cn/large/00831rSTgy1gdjvnu34tej31880u04qp.jpg)
 
+![](https://tva1.sinaimg.cn/large/007S8ZIlgy1gfrsyf2123j31c00u01kx.jpg)
+
 
 > [点击此处下载](https://github.com/gaohanghang/mdnice-electron/releases)
 
